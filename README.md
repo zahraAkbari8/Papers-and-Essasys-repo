@@ -1,2 +1,2 @@
 # documents-presentations-repo
-I upload my essays and presentation files here.
+I uploaded my essays and presentation files here.
